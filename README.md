@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-**[prism-card-emporium.lovable.app](https://prism-card-emporium.lovable.app/)**
+**[betaspel.t4ngo.com](https://betaspel.t4ngo.com/)**
 
 > **Note:** The frontend is always accessible, but live data (card prices, stock levels, search) requires the backend pipeline to be running on a local machine. If the shop appears empty or search returns no results, the backend is currently offline.
 
